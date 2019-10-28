@@ -6,3 +6,4 @@ Though my lecture focuses mainly on one equation of interest which is the oscill
 
 The book Fundamentals of Neutrino Physics and Astrophysics by Chung W. Kim and Carlo Guinti is used and the reference to the figure number page number of the plots are given as comments in the code. 
 
+
