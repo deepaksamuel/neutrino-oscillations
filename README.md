@@ -4,5 +4,5 @@ Neutrino oscillations are introduced to the students towards the fag end of the 
 
 Though my lecture focuses mainly on one equation of interest which is the oscillation probability, the effect of sensitivity and the need for different baselines are not immediately relevant. So, I made simple tutorial sessions in which the students learns the subject by plotting the importants formulas in neutrino oscillations.
 
-The book Fundamentals of Neutrino Physics and Astrophysics by Chung W. Kim and Carlo Guinti is used adn the reference to the page number of the plots are given as comments in the code. 
+The book Fundamentals of Neutrino Physics and Astrophysics by Chung W. Kim and Carlo Guinti is used and the reference to the figure number page number of the plots are given as comments in the code. 
 
